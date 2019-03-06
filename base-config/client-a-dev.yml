@@ -23,4 +23,4 @@ eureka:
 cn: 
  springcloud: 
           book: 
-            config: I am the git configuration file from dev environment. I will edit it. 2222222222222
+            config: I am the git configuration file from dev environment. I will edit it. 1111111111
